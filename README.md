@@ -1,4 +1,4 @@
-#Fruit Ninja Mod
+# Fruit Ninja Mod
 A modded version of Fruit Ninja for Android
 
 ## Features
